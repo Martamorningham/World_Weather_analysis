@@ -1,2 +1,4 @@
 #addding congif.py
 config.py
+__pycache__
+.ipynb_checkpoints
